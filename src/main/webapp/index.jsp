@@ -530,7 +530,8 @@
             </form>
 
             <!-- Signup Form (Hidden by default) -->
-            <form class="signup-form hidden" id="signupForm" action="/signup" method="POST">
+            <form class="signup-form hidden" id="signupForm" action="register" method="POST">
+
                 <div class="panel-content">
                     <h1>Sign Up</h1>
                     
