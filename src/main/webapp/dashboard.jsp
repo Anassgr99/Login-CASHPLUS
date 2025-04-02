@@ -9,7 +9,7 @@
 <body class="bg-gray-100 flex">
 
     <!-- Sidebar -->
-    <div class="h-screen bg-[#008995] text-white w-64 p-6">
+    <div class="h-screen bg-[rgba(36,211,211,1)] text-white w-64 p-6">
         <h2 class="text-2xl font-bold text-center mb-8">Cashplus</h2>
         <ul class="space-y-6">
             <li>
