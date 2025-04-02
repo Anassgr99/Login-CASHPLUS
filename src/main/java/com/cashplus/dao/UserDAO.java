@@ -43,8 +43,8 @@ import java.sql.SQLException;
 	    // Email utility method to send email
 	    private void sendEmail(String toEmail, String subject, String messageBody) {
 	        String host = "smtp.gmail.com";
-	        String fromEmail = "your-email@gmail.com"; // Your email
-	        String password = "your-email-password"; // Your email password
+	        String fromEmail = "anass.elgaradi@um5r.ac.ma"; 
+	        String password = "qtrf spxv hpcv xudl"; 
 
 	        Properties properties = System.getProperties();
 	        properties.put("mail.smtp.host", host);
